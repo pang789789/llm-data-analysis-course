@@ -13,6 +13,8 @@ Course workspace for LLM-powered data analysis.
 - `prompts/` - prompts
 - `src/` - source code
 - `automation/` - automation code
+- `database_assignments/` - PostgreSQL and database assignments
+- `data_analysis_assignments/` - data analysis assignments
 
 ## Class startup (Chapters 01–04)
 
