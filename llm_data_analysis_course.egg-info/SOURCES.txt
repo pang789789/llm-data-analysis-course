@@ -7,5 +7,6 @@ llm_data_analysis_course.egg-info/dependency_links.txt
 llm_data_analysis_course.egg-info/top_level.txt
 src/__init__.py
 src/preprocessing.py
+src/visualization.py
 src/titanic_app/__init__.py
 src/titanic_app/features.py
