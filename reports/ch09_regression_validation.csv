@@ -1,0 +1,8 @@
+﻿check,status
+Feature 6개 사용,PASS
+Train Target 생성 및 결측치 제거,PASS
+Test Target 생성 및 결측치 제거,PASS
+Final Test 데이터 3건 이상,PASS
+후보 모델 생성 완료,PASS
+최종 모델 선택 완료,PASS
+대표 오차 사례 3건 추출,PASS
