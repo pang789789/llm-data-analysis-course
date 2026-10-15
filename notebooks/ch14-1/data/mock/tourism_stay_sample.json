@@ -1,0 +1,15 @@
+{
+  "mock": true,
+  "notice": "수업용 모의 응답이며 공공데이터포털 실제 응답이 아닙니다.",
+  "response": {
+    "header": {"resultCode": "00", "resultMsg": "MOCK NORMAL SERVICE"},
+    "body": {
+      "items": [
+        {"areaName": "서울", "stayIntensity": 82.4, "baseYm": "202609"},
+        {"areaName": "부산", "stayIntensity": 76.8, "baseYm": "202609"},
+        {"areaName": "제주", "stayIntensity": 88.1, "baseYm": "202609"}
+      ]
+    }
+  }
+}
+

@@ -1,0 +1,11 @@
+﻿section,name,period,value,change,metric,data_source
+naver_latest,맛집,2026-10-01,84.0,3.0,relative_search_interest,MOCK
+naver_latest,여행,2026-10-01,75.0,5.0,relative_search_interest,MOCK
+naver_latest,캠핑,2026-10-01,52.0,3.0,relative_search_interest,MOCK
+naver_latest,축제,2026-10-01,41.0,6.0,relative_search_interest,MOCK
+tourism_stay,제주,202609,88.1,,stay_intensity,MOCK
+tourism_stay,서울,202609,82.4,,stay_intensity,MOCK
+tourism_stay,부산,202609,76.8,,stay_intensity,MOCK
+tourism_consumption,서울,202609,91.3,,consumption_intensity,MOCK
+tourism_consumption,제주,202609,86.7,,consumption_intensity,MOCK
+tourism_consumption,부산,202609,79.5,,consumption_intensity,MOCK
